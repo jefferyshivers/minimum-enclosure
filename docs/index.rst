@@ -12,4 +12,12 @@ Welcome to minimum enclosure's documentation!
 
    introduction <pages/intro>
    general instructions <pages/gen-inst>
-   flute <pages/flute>
+   bass flute <pages/flute>   
+   oboe <pages/ob>
+   bass clarinet <pages/clar>
+	 bassoon <pages/bsn>
+	 brass <pages/brass>
+	 percussions <pages/perc>
+	 harp <pages/harp>
+	 piano <pages/piano>
+	 strings <pages/strings>
