@@ -1,0 +1,19 @@
+# ignore everything except documentation
+
+# misc
+*.DS_Store
+*.log
+
+# score source files
+main.ly
+main.tex
+assets
+parts
+post-lily
+
+minimum_enclosure.*
+minimum_enclosure_lp.*
+
+
+# docs
+docs/_build
