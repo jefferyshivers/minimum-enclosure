@@ -9,15 +9,7 @@ Welcome to minimum enclosure's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   introduction <pages/intro.rst>
-   general instructions <pages/gen-inst.rst>
-   flute <pages/flute.rst>
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   introduction <pages/intro>
+   general instructions <pages/gen-inst>
+   flute <pages/flute>
