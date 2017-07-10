@@ -1,6 +1,8 @@
 introduction
 ============
 
-Each player performs a subset of three actions.
+Each player performs three variations of a single action. An *action* might be a single gesture or a simple pattern, either sustained / repeated for the duration of the event. The parameters and rules for these actions vary slightly per player, but for the most part the ensemble should feel unified and hierarchically synchronized throughout the performance.
 
-The importance of any moment - and that of any part - isn't explicitly denoted in the score (i.e. dynamics and expressive markings are entirely withheld). The purpose of this minimal construction is to reduce the immediate facade of the piece for the players and, through that reduction, to focus more .. on how every feature fits within its surrounding context *in the moment*.
+The importance of any moment - and that of any part - isn't explicitly denoted in the score (i.e. dynamics and expressive markings are entirely withheld). The purpose of this minimal construction is to reduce the immediate facade of the piece (the score) for the players and, through their performance, the sound itself.
+
+The experience of performing and listening - so for all in the space - should be dry and inconsequential. Attempt not to feel or express feelings, and avoid listening too closely with your ears.
