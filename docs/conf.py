@@ -89,7 +89,11 @@ todo_include_todos = False
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    'show_powered_by':'false',
+    'logo':'min_enc.jpg',
+    'logo_name':'true'
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

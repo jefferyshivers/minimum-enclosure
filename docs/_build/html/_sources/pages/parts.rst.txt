@@ -1,4 +1,4 @@
-=====
+
 parts
 =====
 
@@ -6,70 +6,30 @@ Introduction here.
 
 
 
+lungs
+------------
 
+**(bass flute, oboe, bass clarinet, contrabassoon, french horn, trumpet, trombone)**
 
-bass flute
-=================
-
-.. include:: flute.rst
-
-
-
-
-
-
-oboe
-=================
-
-text here
+.. include:: lungs.rst
 
 
 
 
+guts
+------------
 
-bass clarinet
-=================
+**(two percussions, harp, piano)**
 
-text here
-
-
-
-
-
-bassoon
-=================
-
-text here
+.. include:: guts.rst
 
 
 
 
+necks
+------------
 
-brass
-=================
+**(two violins, viola, violoncello, double bass)**
 
-text here
-
-
-
-
-
-percussions, harp and piano
-=================
-
-Using thick parachute cord (paracord), do:
-
-
-
-
-
-
-
-
-strings
-=================
-
-Each player tunes their lowest string as low as they are willing, but not so loose that the string might flop out of the instrument.
-
-
+.. include:: necks.rst
 
