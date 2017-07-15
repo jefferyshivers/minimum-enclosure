@@ -3,6 +3,9 @@
 minimum enclosure - performance documentation
 =============================================
 
+**NOTE:** This isn't factored into the composition / score, but if the space is quite large, it may be helpful to mic the ensemble.
+
+
 .. toctree::
    :maxdepth: 3
    :caption: Contents:

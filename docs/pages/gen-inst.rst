@@ -1,11 +1,28 @@
+====================
 general instructions
 ====================
 
+*Attempt not to feel or express feelings of emotion, and avoid listening too closely with your ears. Instead, feel, express and listen with your body.*
+
 The importance of any moment - and that of any part - isn't explicitly denoted in the score (i.e. conventional expressive markings are entirely withheld). The purpose of this minimal construction is to reduce the immediate facade of the piece (the score) for the players and, through their performance, the sound itself - and the listener's / feeler's experience thereof.
 
+The piece should more or less come across as a single small gesture stretched out / slowed down over 8 minutes (or however long). Like how when some things are stretched, shorter or weaker strands will break first, and longer or stronger strands will persists - the gesture falls apart, breaks down, loses its consistency. The most important factor of all this is that the performance is *not* a story or evolution of the seed of some idea, but rather a much more raw and crude glance at something in its most vulnerable, naked, honest state.
+
+
 the score
----------
+=========
+
+time
+----
+
+The piece should last somewhere between 7 to 9 minutes. This means that the smallest segments of horizontal space (between the thin vertical lines) will take between about 8 to 10 seconds each. That is quite slow.
+
+
+actions
+-------
 
 Each player performs three variations of some action. An *action* might be a single gesture or a simple pattern, either of which is sustained / repeated for the duration of the event. The parameters and rules for these actions vary slightly per subset of players, but for the most part the ensemble should feel similarly designed and hierarchically unified throughout the performance.
 
-The topmost line represents the least intensity of sound (so less pressure / volume) which should be, for the most part, inaudible; the middle line is only slightly more intense, and the bottom line just slightly more intense than that. The loudest sounds produced should still be reasonably considered **weak** or **quiet**. The performance in its entirity should come across as emphatically (maybe even obnoxiously) soft. Always hold back.
+The topmost line represents the least intensity of sound (so less volume / speed / pressure) which should be, for the most part, inaudible; the middle line is only slightly more intense, and the bottom line just slightly more intense than that. The loudest sounds produced should still be reasonably considered **weak** or **quiet**. The performance in its entirity should come across as emphatically (maybe even obnoxiously) soft. Always hold back.
+
+The result of this of course depends on many factors, such as the details of the space and where / how the audience is situated relative to the ensemble. For this reason, all of the instructions above are also relative to that, so feel free to bend the rules as needed, while maintaining the same general aesthetic.
