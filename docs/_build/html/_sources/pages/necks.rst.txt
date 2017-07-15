@@ -7,6 +7,6 @@ The intensity markings for you represent speed alone: slow (top line), medium, a
 
 Maintaining a relatively consistent light pressure, bow the lowest string. Always complete the bow before changing directions - this means that you might change speeds in the middle of a bow.
 
-At the very end of each down bow, no matter what speed you are currently bowing, change to the second-lowest string. Apply a harsh pressure to the string - the result should be some sort of crunchy / squeaky / gross sound. This should always happen for just a brief second, and the volume of this sound shouldn't ever be too loud - but it should be somewhere between the average and loudest sounds in the ensemble. Then switch back to the lowest string.
+At the very end of each down bow, no matter what speed you are currently bowing, change to the second-lowest string. Apply a harsh pressure to the string - the result should be some sort of crunchy / squeaky / gross sound (the point is to articulate the moment without any really particular / distinct sound). This should always happen for just a brief second, and the volume of this sound shouldn't ever be too loud - but it should be somewhere between the average and loudest sounds in the ensemble. Then switch back to the lowest string.
 
 Begin the piece with a down bow.

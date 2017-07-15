@@ -6,7 +6,7 @@ general instructions
 
 The importance of any moment - and that of any part - isn't explicitly denoted in the score (i.e. conventional expressive markings are entirely withheld). The purpose of this minimal construction is to reduce the immediate facade of the piece (the score) for the players and, through their performance, the sound itself - and the listener's / feeler's experience thereof.
 
-The piece should more or less come across as a single small gesture stretched out / slowed down over 8 minutes (or however long). Like how when some things are stretched, shorter or weaker strands will break first, and longer or stronger strands will persists - the gesture falls apart, breaks down, loses its consistency. The most important factor of all this is that the performance is *not* a story or evolution of some seed of an idea, but rather a much more raw and crude glance at something in its most vulnerable, naked state.
+The piece should more or less come across as a single small gesture stretched out / slowed down over 8 minutes (or however long). Like how when some things are stretched, shorter or weaker strands will break first, and longer or stronger strands will persists - the gesture falls apart, breaks down, loses its consistency. The most important factor of all this is that the performance is *not* a story or evolution of the seed of some idea, but rather a much more raw and crude glance at something in its most vulnerable, naked, honest state.
 
 
 the score
@@ -15,7 +15,7 @@ the score
 time
 ----
 
-The piece should last somewhere between 7 to 9 minutes. This means that the smallest segments of horizontal space (between the thing vertical lines) will take between about 8 to 10 seconds each. That is quite slow.
+The piece should last somewhere between 7 to 9 minutes. This means that the smallest segments of horizontal space (between the thin vertical lines) will take between about 8 to 10 seconds each. That is quite slow.
 
 
 actions
